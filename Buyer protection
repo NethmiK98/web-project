@@ -1,0 +1,292 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+  <!-- font awesome 5 free -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+
+  <!-- Poppins font from Google -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="assets/app.css">
+
+  <title>Blossoms</title>
+</head>
+
+<body>
+
+    <!--Offer Alert ================================ -->
+     <div class="offer-alert">
+       <div class="offer-alert__container container"> </div>
+     </div>
+    
+  <!--Hero ====================================== -->
+  <header class="hero container-fluid border-bottom">
+<div class="hero__content container mx-auto">
+    <div class="row px-0 mx-0 align-items-center">
+        <div class="col-lg-6 px-0">
+          <h1 class="hero__title mb-3">
+             <span class="highlight">Buyer</span> Protection
+          </h1>
+          <p class="hero__paragraph mb-5">
+          &nbsp;We promise your money back if the item you&nbsp; &nbsp;received is not as described, or if your item is&nbsp; &nbsp; &nbsp;not delivered within the Buyer Protection period.inaddition particularly&nbsp; You can get a refund 15 days after the claim.Still have questions? We're always here to help.</p>
+          <div class="hero__btns-container"> </div>
+        </div>
+        <div class="col-lg-5 mt-5 mt-lg-0 mx-0">
+          <div class="hero__img-container">
+            <img src="assets/imgs/images.jpg" class="hero__img w-100">
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===================================== -->
+
+  <div id="product" class="block-5 space-between-blocks">
+    <div class="container">
+      <!-- HEADER -->
+      <div class="col-lg-8 col-xl-7 mx-auto text-center mb-5">
+<h1 class="block__title mb-3"><span class="highlight">WHY CHOOSING US&nbsp;</span></h1>
+        <p class="block__paragraph mb-0">&nbsp;
+
+         </p>
+      </div>
+      <div class="row align-items-center flex-column-reverse flex-lg-row px-2">
+        <!-- LEFT CONTENT -->
+        <div class="col-lg-4">
+          <div class="card-2 d-flex flex-row flex-lg-row-reverse">
+            <div>
+              <span class="card-2__symbol mx-auto">
+                <i class="fas fa-fingerprint"></i>
+              </span>
+            </div>
+            <div class="px-2"></div>
+            <div>
+              <h3 class="card-2__title mb-2">free return&nbsp;</h3>
+              <p class="card-2__paragraph">
+              if you want to keep or return the item for any reason you can contact us. </p>
+            </div>
+          </div>
+          <div class="card-2 d-flex flex-row flex-lg-row-reverse">
+            <div>
+              <span class="card-2__symbol mx-auto">
+                <i class="fas fa-fingerprint"></i>
+              </span>
+            </div>
+            <div class="px-2"></div>
+            <div>
+              <h3 class="card-2__title mb-2">&nbsp;Apply for Refund</h3>
+              <p class="card-2__paragraph">
+              If you can't come to an amicable agreement after contacting the seller,you can apply for refund. </p>
+            </div>
+          </div>
+          <div class="card-2 d-flex flex-row flex-lg-row-reverse">
+            <div>
+              <span class="card-2__symbol mx-auto">
+                <i class="fas fa-fingerprint"></i>
+              </span>
+            </div>
+            <div class="px-2"></div>
+            <div>
+              <h3 class="card-2__title mb-2">&nbsp;Return Shipment Fee</h3>
+              <p class="card-2__paragraph">
+              Return Shipment Fee is free. </p>
+            </div>
+          </div>
+        </div>
+        <!-- IMAGE -->
+        <div class="col-lg-4 my-5 text-center">
+          <img src="assets/imgs/buyer-protction-300x269.jpg" width="447" height="400" class="w-75">
+        </div>
+        <!-- RIGHT CONTENT -->
+        <div class="col-lg-4">
+          <div class="card-2 d-flex">
+            <div>
+              <span class="card-2__symbol mx-auto">
+                <i class="fas fa-fingerprint"></i>
+              </span>
+            </div>
+            <div class="px-2"></div>
+            <div>
+              <h3 class="card-2__title mb-2">&nbsp;MONEY BACK GUARANTEE</h3>
+              <p class="card-2__paragraph">
+                We promise your money back if the item you received is not as described     
+                    .
+              </p>
+            </div>
+          </div>
+          <div class="card-2 d-flex">
+            <div>
+              <span class="card-2__symbol mx-auto">
+                <i class="fas fa-fingerprint"></i>
+              </span>
+            </div>
+            <div class="px-2"></div>
+            <div>
+              <h3 class="card-2__title mb-2">&nbsp;Get money back in 15 days</h3>
+              <p class="card-2__paragraph">
+                Most sellers will return your money in 15 days, however; if it's not resolved, you can contact us.
+              </p>
+            </div>
+          </div>
+          <div class="card-2 d-flex">
+            <div>
+              <span class="card-2__symbol mx-auto">
+                <i class="fas fa-fingerprint"></i>
+              </span>
+            </div>
+            <div class="px-2"></div>
+            <div>
+              <h3 class="card-2__title mb-2">After service&nbsp;</h3>
+              <p class="card-2__paragraph">
+              Lyou can contact us after the payments.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===================================== -->
+
+  <div id="features" class="block-11 space-between-blocks">
+    <div class="container">
+      <!-- HEADER -->
+      <div class="block__header col-lg-8 col-xl-7 mx-auto text-center">
+        <p class="block__pre-title mb-2">&nbsp;</p>
+        <h1 class="block__title mb-3"> <span class="highlight">Free Return</span></h1>
+        <p class="block__paragraph mb-0 text-justify">
+        &nbsp;Free Return' service, you get 15 days (on top of the on-time delivery&nbsp; &nbsp;date) to decide if you want to keep or return the item for any reason,&nbsp; &nbsp;as long as they are unused, unwashed and in their original condition&nbsp; &nbsp;complete with the original packaging, tags, etc.</p>
+      </div>
+</div>
+  </div>
+
+  <!-- ======================================== -->
+
+  <div id="testimonials" class="block-20 space-between-blocks">
+    <div class="container">
+      <div class="block__header col-lg-8 col-xl-7 mx-auto text-center px-0">
+        <h1 class="block__title mb-3">&nbsp;Easy and Fast</h1>
+        <p class="block__paragraph text-justify"> Get the return code or label.wait for door-to-door pickup service or take your package to the designated service point and,  lastly, wait for the local warehouse to confirm receipt of your returned package.refund will be made to you once we confirm receipt of your returned parcel which meet the conditions for reimbursement.Items will be processed at a local warehouse, instead of being sent back to the seller’s country of origin.</p>
+</div>
+</div>
+  </div>
+
+  <!-- =================================== -->
+
+  <!-- =================================== -->
+
+  <!-- =================================== -->
+
+  <div id="contact-us" class="block-28 space-between-blocks border-top border-bottom">
+    <div class="container">
+      <div class="row h-100">
+        <div class="col-lg-6 h-100 block-28__content-side">
+          <div class="contact-info">
+            <h5 class="contact-info__title mb-3">our  hotline&nbsp;</h5>
+<div class="mb-5">
+            <h6 class="contact-info__title-2 mb-3">&nbsp;you can directly contact our buyer protection team</h6>
+              <p class="d-flex flex-column">
+                <span class="contact-info__item mb-2">&nbsp;Blossoms@gmail.com</span>
+                <span class="contact-info__item">Fax:0412220269</span>
+              </p>
+            </div>
+            <div class="mb-5">
+<p class="d-flex flex-column">
+              <span class="contact-info__item mb-2">
+                <i class="fas fa-phone"></i><span class="mx-2">&nbsp;0412220269</span>
+              </span>
+              <span class="contact-info__item">
+                <i class="fas fa-envelope"></i><span class="mx-2">076 4748267&nbsp;&nbsp;&nbsp;</span>
+              </span>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 h-100 block-28__form-side">
+          <form onsubmit="submitContactForm(event)" class="contact-form text-center">
+            <div class="contact-form__header mb-5">
+              <h6 class="contact-form__title mb-3">Contact Us</h6>
+              <p class="contact-form__paragraph mb-0 mx-auto">
+              you can directly contact our buyer protection team&nbsp; </p>
+            </div>
+            <input type="text" class="contact-form__input" placeholder="Full Name">
+            <input type="email" class="contact-form__input" placeholder="Email">
+            <textarea class="contact-form__input" placeholder="Message"></textarea>
+            <button class="btn btn-primary w-100">SEND MESSAGE</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- =================================== -->
+
+  <!-- =================================== -->
+
+  <div class="block-44 py-5">
+    <div class="container">
+      <div class="row px-0 mx-0 justify-content-center align-items-center">
+        <div class="block-44__logo-container"> &nbsp;BLOSSOMS.INC
+        </div>
+        <ul class="block-44__list list-unstyled justify-content-center mb-0">
+          <li class="block-44__li-1"> </li>
+          <li class="block-44__li-1"> </li>
+          <li class="block-44__li-1"> </li>
+          <li class="block-44__li-1"> </li>
+        </ul>
+      </div>
+    </div>
+    <hr class="block-44__divider">
+    <div class="container">
+      <div class="row flex-column flex-md-row px-2 justify-content-center">
+        <div class="flex-grow-1">
+          <ul class="block-44__extra-links d-flex list-unstyled p-0">
+            <li class="mx-2">
+              <a href="#" class="block-44__link m-0">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+            <li class="mx-2">
+              <a href="#" class="block-44__link m-0">
+                <i class="fab fa-instagram"></i>
+              </a>
+            </li>
+            <li class="mx-2">
+              <a href="#" class="block-44__link m-0">
+                <i class="fas fa-envelope"></i>
+              </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;BE WITH US
+            </li>
+          </ul>
+        </div>
+        <p class="block-41__copyrights">&copy; 2020 BLOSSOMS.INC. All Rights Reserved.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- =================================== -->
+
+  <script src="assets/app.js"></script>
+
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>
