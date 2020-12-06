@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+  <!-- font awesome 5 free -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+
+  <!-- Poppins font from Google -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="assets/app.css">
+
+  <title>Blossoms</title>
+</head>
+
+<body>
+
+    <!--Offer Alert ================================ -->
+     <div class="offer-alert">
+       <div class="offer-alert__container container"> </div>
+     </div>
+    
+  <!--Hero ====================================== -->
+  <header class="hero container-fluid border-bottom">
+<div class="hero__content container mx-auto">
+    <div class="row px-0 mx-0 align-items-center">
+        <div class="col-lg-6 px-0">
+          <h1 class="hero__title mb-3">
+          OUR  SERVICE </h1>
+          <p class="hero__paragraph mb-5">
+          Thousands of customer around the srilankan's join with us.according to our past experience, the majority of the packages will be delivered within the time frame promised by the seller.</p>
+          <div class="hero__btns-container"> </div>
+        </div>
+        <div class="col-lg-5 mt-5 mt-lg-0 mx-0">
+          <div class="hero__img-container">
+            <img src="assets/imgs/769x982-Final.jpg" class="hero__img w-100">
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===================================== -->
+
+  <div id="product" class="block-5 space-between-blocks">
+    <div class="container">
+      <!-- HEADER -->
+      <div class="col-lg-8 col-xl-7 mx-auto text-center mb-5">
+<h1 class="block__title mb-3">OUR SERVICES <span class="highlight">&nbsp;</span></h1>
+</div>
+      <div class="row align-items-center flex-column-reverse flex-lg-row px-2">
+        <!-- LEFT CONTENT -->
+        <div class="col-lg-4">
+          <div class="card-2 d-flex flex-row flex-lg-row-reverse">
+            <div>
+              <span class="card-2__symbol mx-auto">
+                <i class="fas fa-mobile"></i>
+              </span>
+            </div>
+            <div class="px-2"></div>
+            <div>
+              <h3 class="card-2__title mb-2">YOUR ORDER</h3>
+              <p class="card-2__paragraph">
+                Track packages edit or cancel order.
+              </p>
+            </div>
+          </div>
+          <div class="card-2 d-flex flex-row flex-lg-row-reverse">
+            <div>
+              <span class="card-2__symbol mx-auto">
+                <i class="fas fa-mobile"></i>
+              </span>
+            </div>
+            <div class="px-2"></div>
+          <div>
+              <h3 class="card-2__title mb-2">RETURN AND REFUND</h3>
+              <p class="card-2__paragraph">
+              Return or exchange clothes and other services. </p>
+            </div>
+          </div>
+          <div class="card-2 d-flex flex-row flex-lg-row-reverse">
+            <div>
+              <span class="card-2__symbol mx-auto">
+                <i class="fas fa-mobile"></i>
+              </span>
+            </div>
+            <div class="px-2"></div>
+            <div>
+              <h3 class="card-2__title mb-2">GET PRODUCT HELP</h3>
+              <p class="card-2__paragraph">
+              Troubleshoot product setup and usage issues. </p>
+            </div>
+          </div>
+        </div>
+        <!-- IMAGE -->
+        <div class="col-lg-4 my-5 text-center">
+          <img src="assets/imgs/KM_services_our_services_hero.png" width="400" height="450" class="w-75">
+        </div>
+        <!-- RIGHT CONTENT -->
+        <div class="col-lg-4">
+          <div class="card-2 d-flex">
+            <div>
+              <span class="card-2__symbol mx-auto">
+                <i class="fas fa-mobile"></i>
+              </span>
+            </div>
+            <div class="px-2"></div>
+            <div>
+              <h3 class="card-2__title mb-2">DIGITAL<em> </em>SERVICES </h3>
+              <p class="card-2__paragraph">
+              Troubleshoot  . </p>
+            </div>
+          </div>
+          <div class="card-2 d-flex">
+            <div>
+              <span class="card-2__symbol mx-auto">
+                <i class="fas fa-mobile"></i>
+              </span>
+            </div>
+            <div class="px-2"></div>
+            <div>
+              <h3 class="card-2__title mb-2">PAYMENT & GIFT CARDS </h3>
+              <p class="card-2__paragraph">
+              Add or edit payment methods </p>
+            </div>
+          </div>
+          <div class="card-2 d-flex">
+            <div>
+              <span class="card-2__symbol mx-auto">
+                <i class="fas fa-mobile"></i>
+              </span>
+            </div>
+            <div class="px-2"></div>
+            <div>
+              <h3 class="card-2__title mb-2">YOUR ACCOUNT</h3>
+              <p class="card-2__paragraph">
+                log your account and manage.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===================================== -->
+
+  <div id="features" class="block-11 space-between-blocks">
+    <div class="container">
+      <!-- HEADER -->
+      <div class="block__header col-lg-8 col-xl-7 mx-auto text-center">
+<h1 class="block__title mb-3"> <span class="highlight">&nbsp;Make a payment online  with your mobile.</span></h1>
+        <p class="block__paragraph mb-0 text-justify">
+        &nbsp;Make a payment in exchange our services without sharing your financial information with the seller. It's simple, faster and more secure. Currency conversion fees may apply.</p>
+      </div>
+</div>
+  </div>
+
+  <!-- ======================================== -->
+
+  <div id="testimonials" class="block-20 space-between-blocks">
+    <div class="container">
+      <div class="block__header col-lg-8 col-xl-7 mx-auto text-center px-0">
+        <h1 class="block__title mb-3">&nbsp;Quick and easy.</h1>
+        <p class="block__paragraph">
+        it’s simple. Just an email address and password will get you through to checkout before you can reach your payment. </p>
+      </div>
+</div>
+  </div>
+
+  <!-- =================================== -->
+
+  <div id="pricing" class="block-17 px-4 space-between-blocks">
+    <div class="container">
+      <div class="block-17__header col-lg-8 col-xl-7 mx-auto text-center px-0">
+        <h1 class="block__title mb-3">Buyer Protection services&nbsp;</h1>
+        <p class="block__paragraph text-justify">
+        If an eligible item that you’ve bought online doesn’t arrive, or doesn’t match the seller’s description, PayPal's Buyer Protection may reimburse you for the full amount of the item plus postage. Buyer Protection may cover your eligible online purchases, on blossoms website, when you use PayPal. It also covers you when you make a payment on PayPal's website.</p>
+      </div>
+</div>
+  </div>
+
+  <!-- =================================== -->
+
+  <!-- =================================== -->
+
+  <!-- =================================== -->
+
+  <!-- =================================== -->
+
+  <div class="block-44 py-5">
+    <div class="container">
+      <div class="row px-0 mx-0 justify-content-center align-items-center">
+        <div class="block-44__logo-container">
+          <p> BLOSSOMS.INC </p>
+          <p>&nbsp;320/20 VIJAYAKUMARATUNGA MAWATHA,</p>
+          <p>COLOMBO 7,<br>
+          </p>
+          <p>&nbsp;PHONE-0412220269</p>
+          <p>&nbsp;BLOSSOMS</p>
+        </div>
+        <ul class="block-44__list list-unstyled justify-content-center mb-0">
+          <li class="block-44__li-1"> </li>
+          <li class="block-44__li-1"> </li>
+          <li class="block-44__li-1"> </li>
+          <li class="block-44__li-1"> </li>
+        </ul>
+      </div>
+    </div>
+    <hr class="block-44__divider">
+    <div class="container">
+      <div class="row flex-column flex-md-row px-2 justify-content-center">
+        <div class="flex-grow-1">
+          <ul class="block-44__extra-links d-flex list-unstyled p-0">
+            <li class="mx-2">
+              <a href="#" class="block-44__link m-0">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+            <li class="mx-2">
+              <a href="#" class="block-44__link m-0">
+                <i class="fab fa-instagram"></i>
+              </a>
+            </li>
+            <li class="mx-2">
+              <a href="#" class="block-44__link m-0">
+                <i class="fas fa-envelope"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <p class="block-41__copyrights">&copy; 2020 BLOSSOMS.All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- =================================== -->
+
+  <script src="assets/app.js"></script>
+
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+
+</body>
+
+</html>
